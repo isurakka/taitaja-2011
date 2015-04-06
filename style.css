@@ -1,0 +1,393 @@
+body
+{
+	background: #A86530;
+}
+
+/* General table settings */
+table.siteframe, table.siteframe td, table.navbar, td.navbarmiddlemargin, table.contenttable, table.sublinktable, table.contentimage, table.banner2, table.whatson, table.newstable, p.newsText,  table.whatsonfooterbar
+{
+	border-width: 0px;
+	border-style: inset;
+	border-color: black;
+	border-collapse: collapse;
+	padding: 0px;
+}
+
+img.logo
+{
+	display: block;
+	position: absolute;
+	top: 40px;
+	margin-left: 10px;
+}
+
+img.australiatext
+{
+	margin-bottom: 220px;
+	margin-left: 490px;
+}
+
+img.banner
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td.banner
+{
+	width: 1024ps;
+	height: 351px;
+}
+
+table.siteframe {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 1024px;
+	height: auto;
+}
+
+td.bannerbar
+{
+	height: 30px;
+	background-color: #452520;
+}
+
+img.bannerbarshade
+{
+	margin-top: -15px;
+}
+
+table.navbar
+{
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -20px;
+}
+
+tr.navbarrow
+{
+	height: 30px;
+	width: 1024px;
+}
+
+td.navbar_leftmargin, td.navbar_rightmargin
+{
+	width: 30px;
+}
+
+td.navbarmiddlemargin
+{
+	width: 15px;
+}
+
+img.navbutton
+{
+	display: block;
+}
+
+td.content
+{
+	background-image: url("images/contentshade_lower.png");
+	background-repeat: no-repeat;
+}
+
+table.contenttable
+{
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	width: 750px;
+}
+
+h1.contenttitle, h2.contenttitle, p.contenttext, div.bannertext, div.sublink, div.requestinfolink, label.requestlabel, p.whatsontext, p.pBack, a.webmasterloginlink, p.loginerror, span.webmastertext, p.newsText, a.webmasteraddlink, a.webmasterremovelink
+{
+	font-family: Arial, Verdana;
+}
+
+p.requesttext
+{
+	font-family: Arial, Verdana;
+	font-size: 10px;
+	color: #FF0000;
+}
+
+h1.contenttitle
+{
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+p.contenttext
+{
+	font-size: 14px;
+}
+
+p.whatsontext
+{
+	font-size: 14px;
+}
+
+
+div.bannertext
+{
+	font-style: italic;
+	font-size: 30px;
+	margin-top: -40px;
+	margin-right: 20px;
+	color: white;
+}
+
+table.sublinktable
+{
+	
+}
+
+td.sublinkblock
+{
+	font-size: 24px;
+	width: 225px;
+	height: 100px;
+	background-image: url("images/subpage_linkshade.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+a.sublink:link, div.requestinfolink a
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+a.sublink:active, div.requestinfolink a
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+a.sublink:visited, div.requestinfolink a
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+a.sublink:hover, div.requestinfolink a
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+}
+
+a.webmasterloginlink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-right: 15px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+span.webmastertext
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-right: 15px;
+	font-size: 12px;
+}
+
+a img
+{
+	border: none;
+}
+
+table.contentimage img, table.contentimage embed
+{
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+div.requestinfolink
+{
+	margin-top: 30px;
+}
+
+span.requestlabel
+{
+	font-family: Arial, Verdana;
+	font-size: 13px;
+	color: #540000;
+}
+
+label.requestlabel
+{
+	font-weight: bold;
+}
+
+input.button
+{
+	width: 100px;
+}
+
+td.navbar
+{
+	background-image: url("images/contentshade_upper.png");
+}
+
+img.contentshade
+{
+	position: absolute;
+	top: 400px;
+}
+
+td.footerbar
+{
+	height: 30px;
+	background-color: #452520;
+}
+
+img.footerbarshade
+{
+	margin-top: -15px;
+}
+
+p.whatsontext
+{
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+table.whatson
+{
+	width: 950px;
+}
+
+tr.whatsonrow
+{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+table.whatson td
+{
+	margin-bottom: 15px;
+}
+
+td.whatsonmargin
+{
+	height: 15px;
+}
+
+td.whatsontextblock
+{
+	background-image: url("images/whatson/whatsonbuttonshade.png");
+	background-repeat: no-repeat;
+}
+
+p.loginerror
+{
+	font-size: 14px;
+	width: 300px;
+	height: 100px;
+	margin-left: 15px;
+}
+
+table.newstable
+{
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.newsPicture
+{
+	width: 300px;
+	height: 200px;
+}
+
+h2.contenttitle
+{
+	font-size: 18px;
+	margin-left: 25px;
+}
+
+td.newsText
+{
+	width: 600px;
+	background-image: url("images/whatson/whatsonnewsshade.png");
+}
+
+p.newsText
+{
+	font-size: 14px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+td.whatsonnewsmargin
+{
+	height: 15px;
+}
+
+a.webmasterloginlink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-left: 15px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+a.webmasteraddlink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-left: 15px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+td.whatsonfooterbar
+{
+	height: 30px;
+	background-color: #452520;
+	width: 512px;
+}
+
+table.whatsonfooterbar
+{
+	height: 30px;
+	background-color: #452520;
+	width: 1024px;
+}
+
+a.webmasterremovelink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-left: 5px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+embed.australiamovie
+{
+	margin-top: 15px;
+}
+
+table.australiamovie
+{
+	margin-left: auto;
+	margin-right: auto;
+}

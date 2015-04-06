@@ -1,0 +1,20 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="834" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="G:\xampp\htdocs\australia\style.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="824" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\index.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="664" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\aboutaustralia.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="688" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\placestogo.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="720" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\thingstodo.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="832" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\whatson.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="496" startPos="121" endPos="121" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\doctype.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\metadata.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="64" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\header_p1.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="520" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\header_p2.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="72" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\header_p3.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="744" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\navigation.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="G:\xampp\htdocs\australia\includes\footer.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
